@@ -1,5 +1,5 @@
 =begin
-Create a Histogram
+Learn Ruby: Create a Histogram
 =end
 
 puts "Enter a string"
