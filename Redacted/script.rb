@@ -1,5 +1,5 @@
 =begin
-Redacted!
+Learn Ruby: Redacted!
 =end
 
 puts "Enter a string"
