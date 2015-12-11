@@ -1,2 +1,2 @@
 # Learn-Ruby
-A few projects from completing the Code Academy "Learn AngularJS" course
+Ten projects from completing the Code Academy "Learn AngularJS" course
